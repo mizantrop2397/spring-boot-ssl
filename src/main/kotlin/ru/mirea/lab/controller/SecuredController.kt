@@ -10,5 +10,4 @@ class SecuredController {
     fun greeting(model: Model) = with(model) {
         "index"
     }
-
 }
